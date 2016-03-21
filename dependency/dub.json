@@ -1,0 +1,10 @@
+{
+    "name": "dependency",
+    "description": "A minimal D application.",
+    "copyright": "Copyright © 2016, freeslave",
+    "authors": ["freeslave"],
+    "dependencies": {
+    },
+    "targetPath" : "lib",
+    "targetType" : "library"
+}
